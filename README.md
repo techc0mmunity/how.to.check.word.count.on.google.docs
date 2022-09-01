@@ -1,6 +1,6 @@
 # how to check word count on google docs
 
-[![how to check word count on google docs](gett-detail.png)](https://github.com/techc0mmunity/how.to.check.word.count.on.google.docs/)
+[![how to check word count on google docs](get-detail.png)](https://github.com/techc0mmunity/how.to.check.word.count.on.google.docs/)
 
 Google Docs can display the word and character count for an entire document or a selected section. This guide outlines how to obtain a word count in a browser and Google Doc apps for Android and iOS.
 
